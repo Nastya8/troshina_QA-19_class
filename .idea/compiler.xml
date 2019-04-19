@@ -2,8 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="QA-19-wikipedia-selenium-tests_main" target="1.8" />
+      <module name="QA-19-wikipedia-selenium-tests_test" target="1.8" />
+      <module name="qa19-sandbox-web_main" target="1.8" />
+      <module name="qa19-sandbox-web_test" target="1.8" />
+      <module name="sandbox-web_main" target="1.8" />
+      <module name="sandbox-web_test" target="1.8" />
+      <module name="trello-web-tests_main" target="1.8" />
+      <module name="trello-web-tests_test" target="1.8" />
       <module name="wikipedia-selenium-tests_main" target="1.8" />
       <module name="wikipedia-selenium-tests_test" target="1.8" />
+      <module name="wikipedia-tests_main" target="1.8" />
+      <module name="wikipedia-tests_test" target="1.8" />
+      <module name="wikipedia-web-tests_main" target="1.8" />
+      <module name="wikipedia-web-tests_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

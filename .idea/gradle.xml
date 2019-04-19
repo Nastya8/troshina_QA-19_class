@@ -3,11 +3,53 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox-web" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sandbox-web" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/trello-web-tests" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/trello-web-tests" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-selenium-tests" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/wikipedia-selenium-tests" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-tests" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/wikipedia-tests" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/wikipedia-web-tests" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
