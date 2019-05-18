@@ -6,9 +6,9 @@ public class BoardCreationTest extends TestBase {
 
     @Test
     public void createBoardTest(){
-        initBoardCreationFromHeader();
-        typeBoardName();
-        submitBoardCreation();
+        app.initBoardCreationFromHeader();
+        app.typeBoardName();
+        app.submitBoardCreation();
     }
 
 }

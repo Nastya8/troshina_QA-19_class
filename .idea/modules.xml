@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web-tests.iml" group="trello-web-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web-tests_main.iml" group="trello-web-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web-tests_test.iml" group="trello-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/troshina_QA-19_class-sandbox-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/troshina_QA-19_class-sandbox-web_main.iml" group="sandbox-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/troshina_QA-19_class-sandbox-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/troshina_QA-19_class-sandbox-web_test.iml" group="sandbox-web" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-tests.iml" group="wikipedia-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-tests_main.iml" group="wikipedia-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-tests_test.iml" group="wikipedia-tests" />

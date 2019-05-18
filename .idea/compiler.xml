@@ -10,6 +10,8 @@
       <module name="sandbox-web_test" target="1.8" />
       <module name="trello-web-tests_main" target="1.8" />
       <module name="trello-web-tests_test" target="1.8" />
+      <module name="troshina_QA-19_class-sandbox-web_main" target="1.8" />
+      <module name="troshina_QA-19_class-sandbox-web_test" target="1.8" />
       <module name="wikipedia-selenium-tests_main" target="1.8" />
       <module name="wikipedia-selenium-tests_test" target="1.8" />
       <module name="wikipedia-tests_main" target="1.8" />
