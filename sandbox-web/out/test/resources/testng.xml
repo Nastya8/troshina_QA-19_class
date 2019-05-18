@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="EbayTests" verbose="1" >
+     <test name="Regression1">
+        <classes>
+            <class name="com.tran.ebay.tests.SearchItemTest"/>
+            <class name="com.tran.ebay.tests.EbayLoginTest"/>
+        </classes>
+    </test>
+</suite>

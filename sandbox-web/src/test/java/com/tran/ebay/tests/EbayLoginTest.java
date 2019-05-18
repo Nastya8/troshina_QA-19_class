@@ -9,7 +9,7 @@ public class EbayLoginTest extends TestBase{
     public void loginTest() {
 
         app.getUser().initLogin();
-        app.getUser().fillLoginForm(new User().setUser("korsa7557").setPwd("yandex_korsar"));
+        app.getUser().fillLoginForm(new User().setUser("korsarushka@yandex.ru").setPwd("yandex_korsar"));
         app.getUser().confirmLogin();
     }
 

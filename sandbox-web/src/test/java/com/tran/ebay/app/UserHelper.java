@@ -11,7 +11,8 @@ public class UserHelper extends HelperBase {
         super(wd);
     }
     public void confirmLogin() {
-        click(By.id("sghBt"));
+        //click(By.id("sghBt"));
+        click(By.xpath("//button[@id='sgnBt']"));
     }
 
     public void fillLoginForm(User user1) {
@@ -22,6 +23,7 @@ public class UserHelper extends HelperBase {
     }
 
     public void initLogin() {
-        click(By.linkText("Sing in"));
+        //click(By.linkText("Sing in"));
+        click(By.xpath("//a[contains(text(),'Sign in')]"));
     }
 }

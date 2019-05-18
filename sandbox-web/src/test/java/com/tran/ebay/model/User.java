@@ -3,7 +3,7 @@ package com.tran.ebay.model;
 public class User {
     private String user;
     private String pwd;
-    
+
 
     public User setUser(String user) {
         this.user = user;
