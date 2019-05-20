@@ -19,8 +19,6 @@ dependencies {
 
 test{
     useTestNG {
-        suites 'src/test/resources/testng.xml'
-        //systemProperty'browser','${browser}'
+        suites 'src/test/resources/testng.xml'}
+        systemProperty'browser','${browser}'
     }
-
-}
